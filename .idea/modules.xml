@@ -5,10 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/AllSyntaxCodes.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/AllSyntaxCodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/src/HW/HomeWorks/HomeWorks.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/src/HW/HomeWorks/HomeWorks.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/src/Practice/Pract/Pract.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/src/Practice/Pract/Pract.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Repls/ReplSolutions/ReplSolutions.iml" filepath="$PROJECT_DIR$/Repls/ReplSolutions/ReplSolutions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Repls/Repls.iml" filepath="$PROJECT_DIR$/Repls/Repls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/src/Repls/ReplSolutions/ReplSolutions.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/ReplSolutions/ReplSolutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/src/Repls/Repls.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/Repls.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDET.iml" filepath="$PROJECT_DIR$/SDET.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Soundr/Soundr.iml" filepath="$PROJECT_DIR$/Soundr/Soundr.iml" />
     </modules>
   </component>
 </project>
