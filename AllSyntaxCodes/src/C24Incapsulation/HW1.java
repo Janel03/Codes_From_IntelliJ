@@ -1,0 +1,25 @@
+package C24Incapsulation;
+
+import java.util.ArrayList;
+
+/*
+Create an ArrayList that will store 5 names into it. Find out whether the given ArrayList is empty or not?
+Check whether the specific name is present in an ArrayList or not? Find the size of your arrayList and print all values from that
+ */
+public class HW1 {
+    public static void main(String[] args) {
+
+        ArrayList<String> names=new ArrayList<>(5);
+        names.add("Nesrin");
+        names.add("Vidaya");
+        names.add("Jam");
+        names.add("Jamo");
+        names.add("Jami");
+        System.out.println(names.isEmpty()); //given ArrayList is empty or not?
+        System.out.println(names.contains("Jam"));
+        System.out.println(names.contains("Dam"));
+        System.out.println(names.size());
+        System.out.println(names);
+
+    }
+}

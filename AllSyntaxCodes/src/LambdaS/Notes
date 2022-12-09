@@ -1,0 +1,30 @@
+Why Lambdas?
+    --> Enables functional programming
+    --> Readable and concise code
+    --> Easier to use APIs and libraries
+    --> Enables support for parallel processing
+Function as Values
+    Inline values --> String name="foo";
+Example of Lambda expression:
+    Regular expression:
+       --> aBlockOfCode=public void print(){System.out.println("Hello World!");}
+    Lambda Expression:
+       --> aBlockOfCode=() -> System.out.println("Hello World!"); // If We have just one line we can delete curly braces.
+
+greetingFunction = () -> System.out.println("Hello World!");
+
+greet(greetingFunction);  // one way
+greet(() -> System.out.println("Hello World!")) ; // Other way
+
+Regular Expression:
+doubleNumberFunction =  public int double(int a){
+                                return a2;
+                        }
+Lambda Expression:
+    doubleNumberFunction = (int a) -> a2;
+    addFunction = (int a, int b) -> a+b;
+    safeDivideFunction = (int a, int b) -> {
+                             if(b==0) return 0;
+                                return a/b;
+                          };
+    stringLengthCountFunction = (String s) -> s.length();
