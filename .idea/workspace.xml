@@ -4,222 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbca7dcd-14d9-40cb-9390-d60d483aceb6" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/Data/ExcelTest.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/Data/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C11Object/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C11Object/Object" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/OOPs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/PhoneTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/StringDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/StringDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/StringDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/StringDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/StringDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/StringDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/StringDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C12OOPs/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/StringDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/StringDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/StringDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/HW4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/HW5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/HW6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/MethodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/MethodsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/MethodsDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/MethodsDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/StringBufferVsBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C14StringMethods/StringRecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/HW4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/HW5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/HW6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/HW7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/HondaBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/LocalVarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C15Methods/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C16JavaVariables/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C16JavaVariables/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C16JavaVariables/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C16JavaVariables/PersonTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C16JavaVariables/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C16JavaVariables/SyntaxEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C16JavaVariables/Task1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/EmpTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/Task1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C17AccessModifiers/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/CatTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Task3Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C18Constructors/ThisKeywordDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C19ThisKeywordInheritance/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C20inheriance/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C20inheriance/MethodOverloadingD2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C20inheriance/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C20inheriance/Repl139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C21MethodOverloading/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/ArrayListNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/ArrayListRemoveDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/Arrays4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/Asghar1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/Asghar2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/Asghar3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/Asghar4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/Asghar5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/Asghar6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24CollectionsFramework/StoreDiffValuesInArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24Incapsulation/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24Incapsulation/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24Incapsulation/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C24Incapsulation/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/ALAddAllRemove1RemoveAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/ALRemoveEndsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/ArrayListStringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/ContainsAllDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/HW1RemoveStringWithLastChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/HW2ReplaceWithAnotherStringIfContainsChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/HW3RemoveNumsDividedBy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/IteratorCountPrintNewLinePrintAllinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/IteratorNextHasNextPrintNewLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/IteratorRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/IteratorRemoveChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/IteratorRemoveStartsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/LambdaRemoveStartsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/LoopsWithIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/RemoveStringFromArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C25CollectionsFramework/WrapperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/ApachiCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/ArrayListVsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/HW1IteratorRemoveLastChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/HW2ReplaceStringWithAnotherString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/HW3EvenNumbersandRemoveNumsDivisibleBy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/PrintAllRemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/WhenToUseSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/WrapperDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C26CollectionsFramework/typesOfSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/DogArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/GetAllKeysNremove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/GetSpecificValueWithLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/HashMapReturnKeysNValuesPrintValueOf1Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/InsuranceHW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/PrintAllnClear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/RemoveCharLambdaHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C27CollectionsFramewors/SearchReturnReplacePrintOneItemOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28Excel/GetAllDataFromExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28Excel/GetDataFromSheetAndRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28Excel/PropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28MapsAndexcel/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28MapsAndexcel/PrintKeysOnlyNoBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28MapsAndexcel/PrintKeysnValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28MapsAndexcel/PrintValuesOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28MapsAndexcel/RemoveBasedOnValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28MapsAndexcel/RemoveContainsLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C28MapsAndexcel/RemoveContainsPrintValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C29FileHandling/CallExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C29FileHandling/CallMethodsWithPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C29FileHandling/GetAllDataFromExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C29FileHandling/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C29FileHandling/HeaderRowCells.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C29FileHandling/MethodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C29FileHandling/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C29FileHandling/ReadDataFromExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C30/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/LambdaS/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Practice/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/PrivateClass/ArrayVsArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/PrivateClass/Brackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/PrivateClass/CountChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/PrivateClass/EnhancedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R125S.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R195RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R196Remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R197SetNoOrderNcount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R198SetPrintInOrderNremoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R199SetPrintInOrderNforLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R200MapPreserveOrderPrintRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R201MapCountOccuranceRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R202MapPrintInOrderKeysNvaluesSeparately.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R203MapPrintWithIteratorNoDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R204PrintAllIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R205HashMapPrintUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R206HashMapRemoveWithForLoopEntrySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R207HashMapReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R210.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R215BalancedBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R217CountDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R221.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R223.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/src/R227.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Review13/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Review13/ListMethodToGetKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Review13/ListMethodToGetValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Review13/MapCountCharsWithMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Review13/MapMethodToGetKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewLists/PrintArrayListToStringInNewLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewLists/PrintCountOfLettersInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewLists/RemoveWordsWithMoreThan4Letters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewLists/ReplaceElementBiggerThan4Letters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewLists/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewLists/StudentPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewMap/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewSets/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewSets/PrintSpecificLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/ReviewSets/RemoveDuplicatesFromArrayListAndSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/Utils/ExcelReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fbca7dcd-14d9-40cb-9390-d60d483aceb6" name="Changes" comment="Test2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -362,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670257507938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test2">
+      <created>1670617118265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670617118265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,7 +235,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
