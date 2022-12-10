@@ -3,9 +3,18 @@
   <component name="AnalysisUIOptions">
     <option name="SCOPE_TYPE" value="3" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fbca7dcd-14d9-40cb-9390-d60d483aceb6" name="Changes" comment="Test2">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-Dec-22_3_15_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-Dec-22_3_15_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllSyntaxCodes/AllSyntaxCodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/AllSyntaxCodes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/StringDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDET.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDET.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +44,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,12 +68,12 @@
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19 (2)&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ryan_/IdeaProjects/SDETBatch14Java/AllSyntaxCodes/Data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SDET Programs/Apache Poi/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -81,41 +91,59 @@
       <recent name="C:\Users\ryan_\IdeaProjects\SDETBatch14Java\AllSyntaxCodes\src\Pract" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rep31">
-    <configuration name="R210" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="R210" />
-      <module name="Repls" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="R218" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="R218" />
-      <module name="Repls" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="R219" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="R219" />
-      <module name="Repls" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="R227" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="R227" />
-      <module name="Repls" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rep31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsStudyGroup.Rep31" />
+  <component name="RunManager" selected="Application.R215Ai2">
+    <configuration name="HW1n1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C20inheriance.HW1n1" />
       <module name="AllSyntaxCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsStudyGroup.*" />
+          <option name="PATTERN" value="C20inheriance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R215Ai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAI.R215Ai" />
+      <module name="AllSyntaxCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReplsAI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R215Ai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAI.R215Ai2" />
+      <module name="AllSyntaxCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReplsAI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R227AI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="R227AI" />
+      <module name="Repls" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAI.R31" />
+      <module name="AllSyntaxCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReplsAI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Rep31" />
-        <item itemvalue="Application.R210" />
-        <item itemvalue="Application.R227" />
-        <item itemvalue="Application.R218" />
-        <item itemvalue="Application.R219" />
+        <item itemvalue="Application.R215Ai2" />
+        <item itemvalue="Application.R215Ai" />
+        <item itemvalue="Application.R31" />
+        <item itemvalue="Application.R227AI" />
+        <item itemvalue="Application.HW1n1" />
       </list>
     </recent_temporary>
   </component>
@@ -163,14 +191,7 @@
       <option name="project" value="LOCAL" />
       <updated>1670617156918</updated>
     </task>
-    <task id="LOCAL-00004" summary="Test2">
-      <created>1670619853233</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1670619853233</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="19">
+      <module name="AllSyntaxCodes" target="" />
+      <module name="HomeWorks" target="" />
+      <module name="Pract" target="" />
+      <module name="Repls" target="" />
+      <module name="ReplSolutions" target="" />
+      <module name="SDET" target="" />
+    </bytecodeTargetLevel>
+  </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Repls" options="--add-exports jdk.internal.vm.ci/jdk.vm.ci.code=ALL-UNNAMED" />
