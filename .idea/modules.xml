@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/AllSyntaxCodes.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/AllSyntaxCodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/src/HW/HomeWorks/HomeWorks.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/src/HW/HomeWorks/HomeWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaExercises/JavaExercises.iml" filepath="$PROJECT_DIR$/JavaExercises/JavaExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/src/Practice/Pract/Pract.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/src/Practice/Pract/Pract.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/src/Repls/ReplSolutions/ReplSolutions.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/ReplSolutions/ReplSolutions.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllSyntaxCodes/src/Repls/Repls.iml" filepath="$PROJECT_DIR$/AllSyntaxCodes/src/Repls/Repls.iml" />

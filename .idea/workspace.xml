@@ -8,13 +8,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbca7dcd-14d9-40cb-9390-d60d483aceb6" name="Changes" comment="Test2">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-Dec-22_3_15_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-Dec-22_3_15_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllSyntaxCodes/AllSyntaxCodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/AllSyntaxCodes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C13StringClass/StringDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDET.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDET.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnotherExampleScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/HW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/HW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenOrOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputFromKeyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaZoom/ScannerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaZoom/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Month.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PositiveNegative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeExercises/Practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeExercises/Practice3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeExercises/Practice4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeExercises/Replit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemperatureCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThursdayReviewClass/VariablesDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Class4/HW1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C4/HW1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Class4/HW2.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C4/HW2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ThursdayReviewClass/VariablesDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/ThursdayReviewClass/VariablesDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/ArithmeticHomeWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/ArithmeticHomeWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/ArithmeticOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/ArithmeticOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/Casting.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/Casting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/DeclaringAndAssigningNumericValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/DeclaringAndAssigningNumericValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/Modulus.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/Modulus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/NonPrimitiveDataType.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/NonPrimitiveDataType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/TaskOneAndTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/TaskOneAndTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/VariableCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/VariableCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/VariableValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/VariableValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class02/ArithmeticHomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/class02/ArithmeticHomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class02/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/class02/ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class02/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/class02/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class02/DeclaringAndAssigningNumericValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/class02/DeclaringAndAssigningNumericValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class02/Modulus.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/class02/Modulus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class02/NonPrimitiveDataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/class02/NonPrimitiveDataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class02/TaskOneAndTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/class02/TaskOneAndTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class02/VariableCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/class02/VariableCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class02/VariableValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSyntaxCodes/src/C2/class02/VariableValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doubleComparison.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,20 +119,20 @@
       <recent name="C:\Users\ryan_\IdeaProjects\SDETBatch14Java\AllSyntaxCodes\Data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\szhan\IdeaProjects\Java-Projects\bin\PracticeExercises" />
+      <recent name="C:\Users\szhan\IdeaProjects\Java-Projects\AllSyntaxCodes\src" />
+      <recent name="C:\Users\szhan\IdeaProjects\Java-Projects\AllSyntaxCodes" />
       <recent name="C:\Users\ryan_\IdeaProjects\SDETBatch14Java\AllSyntaxCodes\src" />
       <recent name="C:\Users\ryan_\IdeaProjects\SDETBatch14Java\AllSyntaxCodes\src\PrivateClass" />
-      <recent name="C:\Users\ryan_\IdeaProjects\SDETBatch14Java\Eclip" />
-      <recent name="C:\Users\ryan_\IdeaProjects\SDETBatch14Java\Repls" />
-      <recent name="C:\Users\ryan_\IdeaProjects\SDETBatch14Java\AllSyntaxCodes\src\Pract" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.R215Ai2">
-    <configuration name="HW1n1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C20inheriance.HW1n1" />
-      <module name="AllSyntaxCodes" />
+  <component name="RunManager" selected="Application.MonthCheckCalculateDaysInMonth">
+    <configuration name="MonthCheckCalculateDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifElse.MonthCheckCalculateDaysInMonth" />
+      <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C20inheriance.*" />
+          <option name="PATTERN" value="ifElse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,15 +140,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R215Ai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAI.R215Ai" />
-      <module name="AllSyntaxCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReplsAI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="MultipleChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifElse.MultipleChecker" />
+      <module name="JavaExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,33 +160,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R227AI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="R227AI" />
-      <module name="Repls" />
+    <configuration name="VowelConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifElse.VowelConsonant" />
+      <module name="JavaExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAI.R31" />
-      <module name="AllSyntaxCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReplsAI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ifElse1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifElse1" />
+      <module name="Pract" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonthCheckCalculateDaysInMonth" />
+        <item itemvalue="Application.MultipleChecker" />
+        <item itemvalue="Application.VowelConsonant" />
+        <item itemvalue="Application.ifElse1" />
         <item itemvalue="Application.R215Ai2" />
-        <item itemvalue="Application.R215Ai" />
-        <item itemvalue="Application.R31" />
-        <item itemvalue="Application.R227AI" />
-        <item itemvalue="Application.HW1n1" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670617156918</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test2">
+      <created>1670713139121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670713139121</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
