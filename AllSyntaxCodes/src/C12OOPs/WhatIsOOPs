@@ -1,0 +1,61 @@
+What is Object Oriented Programming?
+What are classes & objects?
+
+One of the best things about writing  programs is being easily able to work with & keep track of
+different types of data. Data is the driving force behind most programs that we write.
+Programmers are constantly parsing Strings, adding and subtracting numbers, counting  things, in passing
+pieces of data around. Applications are able to work with data in an organized & structured way is
+extremely important.
+By default, most programming languages will allow you to store and keep track of 3 distinct types of
+data: text, numbers & boolean values. With these 3 data types, we can represent all different types
+of information. Things like people's names with text, whether or not someone is an organ donor with a
+boolean value, or price of an item with a number. And being able to keep track of simple pieces of data
+like this is really great. But, when we need a more complex data = like representing an entity in the
+real world, like a Student. Imagine we are writing a program for a school and we wanted to keep track of
+the students who are currently enrolled. Now, instead of keeping track of names with Strings or numbers
+with prices, we want to to be able to keep of track of student. But the problem is we don't have a
+data type for students, there's no data type floating around built into a language like Strings, numbers
+or boolean. On top of that, we might want to define some functionality around the student, like giving
+school administrators the ability to mark the student as absent or change their grades. While doing such
+examples, we want to be able to keep track of and model more complex pieces of data and we need a more
+complex data types. In order to solve this problem, we can use an abject-oriented programming language.
+OOPs allows developers to create their own custom data types. Even if it doesn't provide student data
+types by default, a developer could create it and use it just like String, number & boolean value.
+The first step is to create a Student class. In OOP language, a class is a specification of the new data
+type. It's essentially a blueprint that tells the programming language what the new data type looks like
+and what it's made up of. In our student class we can define the attributes and the functionalities
+that make up a student, by creating a student class. The attributes of a class are individual Strings,
+numbers or booleans, which define the attributes of the entity we are modeling. In this case, a student
+can have:
+ 1. a name attribute, which would be a String
+ 2. a GPA attribute, number/int/double
+ 3. a year attribute for freshman sophomore, junior, senior in String
+ 4. hasScholarship in boolean
+ In addition to attributes, we could also define functionalities. We could create:
+ 1. a hasHonors function inside the Student class which would use the GPA to qualify the student to see
+    if they have the honors. If the GPA is greater than 3.5, then we would say they have honors
+ 2. or giveScholarship function, which would set the hasScholarship boolean to True, thus giving the
+    student a scholarship.
+So, this class can have these attributes & functions, which will essentially make up the data type and
+allow us to define, what a student looks like in our program. When we create a class, we tell the
+language what this new data type  looks like and what it does. But all we are doing here is describing
+the data types, we are not actually creating a student that we can work with. To create a student in
+our program we need an Object. An object is an instance of class, which means a student object would be
+an instance of our student class. So a student object is an actual student, with actual name, GPA, year
+and scholarship status. In our program we might create multiple student objects and each of them would be
+an instance of a student class. An object is an actual thing that we are gonna work with in our
+programs. You can pass it around, you could store it inside a variable, you could access each one of
+those attributes or call any of those functions. The object is the implementation of the class. The
+class is simply the blueprint, it defines what the new data type looks like. Once we define what the
+data type looks like in the class, we can create as many objects or instances of that class as we want.
+So, our program can keep track of thousands of student objects all with their name, GPA and etc. Our code
+could also use the functions exposed by each of these student objects to, for example give scholarships
+or figure out if they have honors. So, if some piece of code was responsible for granting scholarships to
+give students, it could give scholarship functions for a particular student in order to do that.
+OOPs is great, because it allows us to model real world entities as student in our programs so we
+can create a student class and then create instances of that student class, student objects and use them.
+
+
+
+
+

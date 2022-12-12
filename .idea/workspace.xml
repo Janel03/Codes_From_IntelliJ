@@ -85,7 +85,14 @@
       <recent name="C:\Users\ryan_\IdeaProjects\SDETBatch14Java\AllSyntaxCodes\src\PrivateClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MonthCheckCalculateDaysInMonth">
+  <component name="RunManager" selected="Application.CodeCademy">
+    <configuration name="CodeCademy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeCademy" />
+      <module name="JavaExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MonthCheckCalculateDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ifElse.MonthCheckCalculateDaysInMonth" />
       <module name="JavaExercises" />
@@ -106,15 +113,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R215Ai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAI.R215Ai2" />
-      <module name="AllSyntaxCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReplsAI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Print" />
+      <module name="JavaExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,20 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifElse1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifElse1" />
-      <module name="Pract" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodeCademy" />
+        <item itemvalue="Application.Print" />
         <item itemvalue="Application.MonthCheckCalculateDaysInMonth" />
         <item itemvalue="Application.MultipleChecker" />
         <item itemvalue="Application.VowelConsonant" />
-        <item itemvalue="Application.ifElse1" />
-        <item itemvalue="Application.R215Ai2" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670722686947</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test2">
+      <created>1670769306611</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670769306611</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
